@@ -1,0 +1,26 @@
+Bundled icon fonts
+==================
+
+Material Icons
+Author: Google
+Source: https://github.com/google/material-design-icons
+Bundled through the Flutter SDK. The accompanying SDK license is
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+License: https://creativecommons.org/licenses/by/4.0/
+Full license text: material-icons.LICENSE.txt
+Flutter may subset this font during release builds (icon tree shaking).
+
+Cupertino Icons
+Copyright (c) 2016 Vladimir Kharlampidi
+Source: https://github.com/flutter/packages/tree/main/third_party/packages/cupertino_icons
+License: MIT
+Full license text: cupertino-icons.LICENSE.txt
+Flutter may subset this font during release builds (icon tree shaking).
+
+System text fonts
+=================
+
+System text fonts are resolved from fonts installed on the user's computer.
+PDM Viewer does not copy or redistribute those font files. The font selector
+stores only the selected family name. Font availability is not a license grant
+for copying, embedding, or redistributing a system or third-party font.
